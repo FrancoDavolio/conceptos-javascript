@@ -13,4 +13,4 @@ document.write("resultado: " + (29 + 6));
 //crear o declarar o inicializar una variable (var - let - const)
 let persona = "Franco Davolio";
 let comision = 7;
-document.write("<>Nombre" + persona + "</p>");
+document.write("<p>Nombre" + persona + "</p>");
