@@ -24,4 +24,4 @@ let cantidaMates = 20
 do{
     document.write("<br>Mates cebados: N " + cantidaMates);
     cantidaMates--;
-}while(cantidaMates >=)
+}while(cantidaMates >= 1);
